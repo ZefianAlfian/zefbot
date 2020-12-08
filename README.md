@@ -1,10 +1,10 @@
 <div align="center">
     <h3> BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX </h3>
-# ALF BOT
+#ZEFBOT
 </div>
-## CARA INSTALL
+##CARA INSTALL
 
-### TERMUX
+###TERMUX
 ```bash
 > download termux
 > buka
