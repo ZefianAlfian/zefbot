@@ -1,0 +1,36 @@
+{
+  "name": "ZefBot",
+  "version": "1.0.0",
+  "description": "bot termux",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.3.0",
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "image-to-base64": "^2.1.1",
+    "moment-timezone": "^0.5.32",
+    "needle": "^2.5.2",
+    "node-tesseract-ocr": "^2.0.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZefianAlfian/zefbot"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "ZefianAlfian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZefianAlfian/zefbot/issues"
+  },
+  "homepage": "https://github.com/ZefianAlfian/zefbot#readme"
+}
