@@ -8,10 +8,23 @@
 ```bash
 > download termux
 > buka
-> pkg install git
-> git clone https://github.com/alfiansx/alfbot
-> cd alfbot
-> bash install.sh
+> pkg update && pkg upgrade
+> pkg install wget proot -y
+> wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh && bash ubuntu.sh
+> ./start-ubuntu.sh
+> apt update
+> apt install git
+> apt install curl
+> curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
+> bash nodesource_setup.sh
+> apt install nodejs
+> git clone https://github.com/ZefianAlfian/zefbot
+> cd zefbot
+> ls
+> npm i
+> npm i -g cwebp
+> apt install webp
+> selesai , silahkan di jalankan menggunakan 
 > node index.js
 ```
 
